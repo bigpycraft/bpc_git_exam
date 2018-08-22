@@ -3,3 +3,4 @@ Hello, GitHub !!
 # Added Message
 # Last Message 
 
+It's lecture repository 

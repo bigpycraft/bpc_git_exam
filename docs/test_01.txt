@@ -1,0 +1,5 @@
+1st Day
+
+- Install Python and IDE PyCharm
+- Study Data & Control Command
+
